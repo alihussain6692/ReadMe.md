@@ -4,15 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android & Web App | Developer & Pentester
 -----------------------------------------
 
-I am a Cyber Security Student and a developer with a background in web application development using Django and Android application development. Over the past two years, I have skills in these areas, creating user-friendly software. In addition to my development expertise, I have a keen interest in cybersecurity, specializing in Android and web application penetration testing. Currently, I am further expanding my knowledge by diving into the exciting worlds of Machine Learning (ML), Artificial Intelligence (AI), and DevOps.
+I am a Cyber Security Engineer and a developer with a background in web application development using Django with Devops. I have a keen interest in cybersecurity, specializing in Android and web application penetration testing. Currently, I am further expanding my knowledge by diving into the exciting worlds of Machine Learning (ML), Artificial Intelligence (AI), and DevOps.
 
 * 🌍  I'm based in Islamabad
-* 🖥️  See my portfolio at [Github](http://github.com/TheAlkindi92)
-* ✉️  You can contact me at [shoaibnike1122@gmail.com](mailto:shoaibnike1122@gmail.com)
-* 🚀  I'm currently working on [Web App | Android App | Development & Pentesting | DevOps sometime](http://github.com/TheAlkindi92)
-* 🧠  I'm learning AI, ML, DevOps, Web Apps
+* 🖥️  See my portfolio at [Github](http://github.com/alihussain6692)
+* 🚀  I'm currently working on [Web App | Android App | Development & Pentesting | DevOps sometime](http://github.com/alihussain6692)
+* 🧠  I'm learning  DevOps, DevSecOps, Web Apps, AI, ML
 * 🤝  I'm open to collaborating on Web App Development | Android & Web App Pentesting | DevOps
-* ⚡  CTF Player and Freelancing & GYM
+* ⚡  CTF Player, Freelancing & GYM
 
 ### Skills
 
